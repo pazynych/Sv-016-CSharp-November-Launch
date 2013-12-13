@@ -20,6 +20,7 @@ namespace app.core
         /// </summary>
         public int MyProperty { get; set; }
         // test comment
+        //cometa run!
     }
 
     public class TerClass
