@@ -27,6 +27,11 @@ namespace app.core
         /// <summary>
         /// comment
         /// </summary>
+        int Send ()
+        {
+            int a = 1 + 1;
+        }
+
         public int MyProperty33 { get; set; }
         // test comment
     }
