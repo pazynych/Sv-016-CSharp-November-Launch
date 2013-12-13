@@ -22,4 +22,15 @@ namespace app.core
         // test comment
         //cometa run!
     }
+
+    public class TerClass
+    {
+        /// <summary>
+        /// comment
+        /// </summary>
+        public int MyProperty33 { get; set; }
+        // test comment
+    }
+
+
 }
