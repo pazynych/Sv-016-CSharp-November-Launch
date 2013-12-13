@@ -15,6 +15,9 @@ namespace app.core
 {
     public class Class1
     {
+        /// <summary>
+        /// comment
+        /// </summary>
         public int MyProperty { get; set; }
     }
 }
