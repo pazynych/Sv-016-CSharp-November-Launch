@@ -21,4 +21,15 @@ namespace app.core
         public int MyProperty { get; set; }
         // test comment
     }
+
+    public class TerClass
+    {
+        /// <summary>
+        /// comment
+        /// </summary>
+        public int MyProperty33 { get; set; }
+        // test comment
+    }
+
+
 }
