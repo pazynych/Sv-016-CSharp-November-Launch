@@ -30,7 +30,7 @@ Purpose: Represents application's visual components, provides user with data and
     </comment>
     <comment Id="98b0f1c9-8ce7-4eaf-bedf-e43f452d64f5" name="Comment4">
       <body>Technologies: Web API, C#, LINQ.
-Purpose: Maintains application's logic, user's authentification and validation, data validation.</body>
+Purpose: Maintains application's logic, user's authentification and validation, data validation. Provides interface between presentation and business logic</body>
       <layerElements>
         <linkFromCommentToLayerElement>
           <layerMoniker Id="a6a0e404-7249-4484-9177-d3f1ed4a9c1b" />

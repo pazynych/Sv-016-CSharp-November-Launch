@@ -151,7 +151,7 @@
         <layerShapeMoniker Id="0992ad9a-0e9d-4d6b-910b-b36d14ce4994" />
       </nodes>
     </commentConnector>
-    <commentShape Id="ffbc09df-9136-4831-bfd6-2f345cddd999" absoluteBounds="7.375, 6.75, 2.125, 0.625" customColor="255, 255, 204">
+    <commentShape Id="ffbc09df-9136-4831-bfd6-2f345cddd999" absoluteBounds="7.375, 6.75, 2.25, 0.875" customColor="255, 255, 204">
       <commentMoniker Id="98b0f1c9-8ce7-4eaf-bedf-e43f452d64f5" />
       <relativeChildShapes />
     </commentShape>
