@@ -263,9 +263,6 @@
         <actorShapeMoniker Id="eaf3731d-6c15-446e-8520-c84b4fbf71da" />
       </nodes>
     </commentConnector>
-    <artifactShape Id="e2c086c4-c036-473d-a683-1fae195caff7" absoluteBounds="12.25, 7.5, 1.5, 0.5" customColor="161, 199, 231">
-      <artifactMoniker Id="36fdfe91-913c-4651-ac7b-1c7fe26e69a5" LastKnownName="Artifact1" />
-    </artifactShape>
     <SubsystemShape Id="6029adef-db04-4b12-9a99-97ad85ff8190" absoluteBounds="9.5, 0.625, 2.125, 2.125" customColor="Transparent">
       <subsystemMoniker Id="3d647752-bf1f-4ea7-a8d5-7ea25f48af11" LastKnownName="Administration" />
     </SubsystemShape>

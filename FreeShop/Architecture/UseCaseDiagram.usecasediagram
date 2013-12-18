@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ComponentDesigner" dslVersion="1.0.0.0" Id="4ca78c94-683b-401b-a847-306879bbfc18" name="UseCaseDiagram" linkedPackageId="2e79b428-7a41-49b8-a9ac-c3eaf616a193" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="4ca78c94-683b-401b-a847-306879bbfc18" name="UseCaseDiagram" linkedPackageId="2e79b428-7a41-49b8-a9ac-c3eaf616a193" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
   <ownedCommentsInternal>
     <comment Id="624a93c7-81e3-4683-9040-cbfcbc564c45">
       <elementDefinition Id="d56bd7af-a11f-4603-bf82-67b5c51f2d46" />
@@ -377,11 +377,6 @@
       <subsystem Id="584a0f3f-3836-45da-a799-d529cf31bdf8" name="Customer ordering" isAbstract="false" isLeaf="false" isActiveClass="false">
         <elementDefinition Id="afce0098-9fc9-4ddf-9770-4bbc0c7b825c" />
       </subsystem>
-    </useCaseModelRootHasTypes>
-    <useCaseModelRootHasTypes>
-      <artifact Id="36fdfe91-913c-4651-ac7b-1c7fe26e69a5" name="Artifact1" isAbstract="false" isLeaf="false">
-        <elementDefinition Id="7b32d15e-f697-46f7-b737-55e05f37883d" />
-      </artifact>
     </useCaseModelRootHasTypes>
     <useCaseModelRootHasTypes>
       <subsystem Id="8b4e73a3-4b0f-4f60-a295-a9a911b1d758" name="Mutual services1" isAbstract="false" isLeaf="false" isActiveClass="false">
