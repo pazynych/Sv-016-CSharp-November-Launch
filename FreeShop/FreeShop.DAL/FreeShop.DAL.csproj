@@ -183,6 +183,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controllers\UserLocalController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="DAL\OrderContext.cs" />
     <Compile Include="DAL\OrderInitializer.cs" />
@@ -247,6 +248,16 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Help\Create.cshtml" />
+    <Content Include="Views\Help\Delete.cshtml" />
+    <Content Include="Views\Help\Details.cshtml" />
+    <Content Include="Views\Help\Edit.cshtml" />
+    <Content Include="Views\Help\Index.cshtml" />
+    <Content Include="Views\UserLocal\Create.cshtml" />
+    <Content Include="Views\UserLocal\Delete.cshtml" />
+    <Content Include="Views\UserLocal\Details.cshtml" />
+    <Content Include="Views\UserLocal\Edit.cshtml" />
+    <Content Include="Views\UserLocal\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
