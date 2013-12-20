@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeShop", "FreeShop\FreeSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeShop.DAL", "FreeShop.DAL\FreeShop.DAL.csproj", "{006EEE29-69FA-41DE-8C35-863955836472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeShop.Common", "FreeShop.Common\FreeShop.Common.csproj", "{3B7AF2AC-B6CE-4214-BEA6-914270ED0265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{006EEE29-69FA-41DE-8C35-863955836472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{006EEE29-69FA-41DE-8C35-863955836472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{006EEE29-69FA-41DE-8C35-863955836472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7AF2AC-B6CE-4214-BEA6-914270ED0265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7AF2AC-B6CE-4214-BEA6-914270ED0265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7AF2AC-B6CE-4214-BEA6-914270ED0265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7AF2AC-B6CE-4214-BEA6-914270ED0265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
